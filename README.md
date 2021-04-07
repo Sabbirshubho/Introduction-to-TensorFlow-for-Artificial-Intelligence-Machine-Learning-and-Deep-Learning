@@ -1,1 +1,2 @@
-# Introduction-to-TensorFlow-for-Artificial-Intelligence-Machine-Learning-and-Deep-Learning
+# Coursera-Intro-Tensorflow-for-AI-and-ML
+Repo for code written in this Coursera course
